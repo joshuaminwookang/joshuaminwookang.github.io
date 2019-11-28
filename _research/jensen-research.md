@@ -1,6 +1,6 @@
 ---
 title: "Adhesion-Induced Phase Separation in Soft Gels"
-excerpt: "<br/><img src='/images/Kang_Poster_SoftDays@Amherst.jpg' height='250'>"
+excerpt: "<br/><img src='/images/Kang_Poster_SoftDays@Amherst.jpg' width='100'>"
 collection: research
 ---
 
