@@ -12,25 +12,30 @@ redirect_from:
 Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, <br/>
 where I am double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my  <span style="color:black">[R&#233sum&#233](/resume/) <span style="color:#512698">. 
+For a summary of my experiences, please check out my  <span style="color:black">
+[R&#233sum&#233](/fils/kang_resume.pdf)
+ <span style="color:#512698">. 
 
-<hr size="5">
+<hr size="3", color="black"/>
 
 ### Research Interests
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
 
 * Low-power, energy-efficient architectures/systems
-* Hardware accelerators <font size="9"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
+* Hardware accelerators <font size="3"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
 * Open-source and agile hardware development
 
 Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. 
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
 
-<hr size="5">
+<hr size="3", color="black"/>
 
-<font size="10">
+
+<font size="3">
+
 **Trivia**
+
 * I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.
 * From '15 to '17, I served in the South Korean Army, stationed at the [Joint Security Area](https://en.wikipedia.org/wiki/Joint_Security_Area). 
 * I enjoy watching and playing football (~~soccer~~), though I've never been a varsity athelete. 
