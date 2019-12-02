@@ -14,7 +14,7 @@ Hi, I'm an undergrduate student at <span style="color:#512698">Williams College 
 For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf", style="color:black">
 R&#233sum&#233</a>. 
 
-<font style="color:black"> --- </font>
+--- 
 
 ### Research Interests
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
@@ -27,7 +27,7 @@ Not listed above, but I have recently become fascinated with warehouse-scale com
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
 
-<font style="color:black"> --- </font>
+---
 
 <font size="3">
 
