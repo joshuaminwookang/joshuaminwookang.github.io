@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p style="font-size: 28p; color color: #512698"> About me </p> <br/>
 
 <p style="font-size: 12p">
 
@@ -17,7 +18,7 @@ For a summary of my experiences, please check out my <a href="/files/kang_resume
 r&#233;sum&#233;</a>. 
 </p>
 
-## Research Interests
+<p style="font-size: 28p; color color: #512698"> Research Interests </p> <br/>
 <p style="font-size: 12p">
 
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
@@ -39,7 +40,7 @@ Also, I consider myself a visual thinker, and topics on graphics and computer vi
 <b>Trivia</b>
 <ul>
 <li> I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.</li>
-<li>From '15 to '17, I served in the South Korean Army, stationed at the  <a href="https://en.wikipedia.org/wiki/Joint_Security_Area"> Joint Security Area </a>. </li>
+<li>From '15 to '17, I served in the South Korean Army, stationed at the  <a href="https://en.wikipedia.org/wiki/Joint_Security_Area" style="color: blue;"> Joint Security Area </a>. </li>
 <li>I enjoy watching and playing football <s>(soccer)</s>, though I've never been a varsity athelete. </li>
 <li> <span style="color:#D00027"> #YNWA </span></li>
 </ul>
