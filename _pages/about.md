@@ -10,7 +10,7 @@ redirect_from:
 <font size="3">
 
 Hi, I'm an undergrduate student at <span style="color:#512698">Williams College</span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font><br/>
-I am a double-major in <b>Computer Science</b> and <b>Physics</b>. 
+I am a double-major in Computer Science and Physics. 
 
 <br/><br/>
 For a summary of my experiences, please refer to my <a href="/files/kang_resume.pdf">
@@ -31,7 +31,6 @@ Not listed above, I have recently become fascinated with warehouse-scale compute
 <br/>
 Also, I consider myself a visual thinker, and I find graphics and computer vision to be interesting application domains. 
 </font>
-<br/>
 
 ***
 
