@@ -12,6 +12,9 @@ Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators<
 June 2019 ~ Present<br/>
 
 <img src='/images/Kang_Summer2019_poster.png' width='800' >
+<br/>
+
+<hr/>
 
 <a href="/files/AIPS_Draft.pdf" style="font-size:20px; font-weight:bold">
 Adhesion-Induced Phase Separation in Soft Gels</a>
