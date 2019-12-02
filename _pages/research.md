@@ -4,9 +4,8 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-p {
-    padding-bottom: 3cm;
-}
+<p></p>
+
 
 <a href="/files/Kang_ThesisProposal_Final.pdf" style="font-size:24px;font-weight:bold" >
 Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
