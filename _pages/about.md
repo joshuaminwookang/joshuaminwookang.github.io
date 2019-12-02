@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span> <span style="color:#512698; font-size: 1px"> (<i>Go Ephs!</i>)</span>, where I am <br/> double-majoring in Computer Science and Physics. 
+Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span> <p style="color:#512698; size: 1px"> (<i>Go Ephs!</i>)</p>, where I am <br/> double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: black;">
-R&#233;sum&#233;</a>. 
+For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: grey;">
+r&#233;sum&#233;</a>. 
 
 --- 
 ## Research Interests
@@ -33,7 +33,7 @@ Also, I consider myself a visual thinker, and topics on graphics and computer vi
 <b>Trivia</b>
 <ul>
 <li> I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.</li>
-<li>From '15 to '17, I served in the South Korean Army, stationed at the  <a href="https://en.wikipedia.org/wiki/Joint_Security_Area)"> Joint Security Area </a>. </li>
+<li>From '15 to '17, I served in the South Korean Army, stationed at the  <a href="https://en.wikipedia.org/wiki/Joint_Security_Area"> Joint Security Area </a>. </li>
 <li>I enjoy watching and playing football <s>(soccer)</s>, though I've never been a varsity athelete. </li>
 <li> <span style="color:#D00027"> #YNWA </span></li>
 </ul>
