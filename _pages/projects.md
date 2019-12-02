@@ -13,4 +13,4 @@ Computational Complexities of Turnstile Puzzles</a>
 <p align="center">
 <img src='/images/kwirk_image.jpeg' width='500' >
 </p>
-<p align="center", style="font-size:1"> Image source: https://nepascene.com/2017/07/turn-channel-3-kwirk-quirky-addictive-early-game-boy-puzzler/</p>
+<p align="center"> <font size="1"> Image source: https://nepascene.com/2017/07/turn-channel-3-kwirk-quirky-addictive-early-game-boy-puzzler/</font></p>
