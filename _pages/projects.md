@@ -4,16 +4,16 @@ title: "Class and Independent Projects"
 permalink: /projects/
 author_profile: true
 ---
-<br/>
 
-<a href="/files/Kang_ThesisProposal_Final.pdf" style="font-size:24px;font-weight:bold" >
-Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
+<a href="/files/Kang_Kwirks_Final.pdf" style="font-size:24px;font-weight:bold" >
+Computational Complexities of Turnstile Puzzles</a>
 
-**June 2019 ~ Present**<br/>
-**@ Williams College CS Bailey group (PI: Prof. Duane Bailey)**
+**Project for CSCI 361 Theory of Computation**<br/>
+**Fall 2019**
 <p align="center">
-<img src='/images/Kang_Summer2019_poster.png' width='800' >
+<img src='/images/kwirk_image.jpeg' width='500' >
 </p>
+<font size="1"> Image source: https://nepascene.com/2017/07/turn-channel-3-kwirk-quirky-addictive-early-game-boy-puzzler/</font>
 
 <a href="/files/AIPS_Draft.pdf" style="font-size:24px; font-weight:bold">
 Adhesion-Induced Phase Separation in Soft Gels</a>
