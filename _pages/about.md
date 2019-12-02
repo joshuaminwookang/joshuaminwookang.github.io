@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size="5">
+<font size="3">
 
 Hi, I'm an undergrduate student at <span style="color:#512698">Williams College</span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>, where I am <br/> double-majoring in Computer Science and Physics. 
 
@@ -17,7 +17,7 @@ r&#233;sum&#233;</a>.
 </font>
 
 ## Research Interests
-<font size="5">
+<font size="3">
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
 <ul>
