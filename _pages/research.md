@@ -5,12 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-<font style="color:purple", size="20"><a href="/files/Kang_ThesisProposal_Final.pdf">
-Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a></font>
+<span style="color:purple", size="20"><a href="/files/Kang_ThesisProposal_Final.pdf">
+Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a></span>
 
-<p style="text-align: center">
-June 2019 ~ </p> | <p style="text-align: center">
-@ Williams College CS Bailey group (PI: Prof. Duane Bailey)</p>
+June 2019 ~ | @ Williams College CS Bailey group (PI: Prof. Duane Bailey)
 
 <p style="text-align: center">
 <img src='/images/Kang_Summer2019_poster.png' width='800' >
