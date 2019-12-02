@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Hi, I'm an undergrduate student at <span style="color:#512698">Williams College <p size="1">(<i>Go Ephs!</i>)</p></span>, where I am <br/> double-majoring in Computer Science and Physics. 
+Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span> <span style="color:#512698; font-size: 1px"> (<i>Go Ephs!</i>)</span>, where I am <br/> double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="font-size: 100px;">
+For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: black;">
 R&#233;sum&#233;</a>. 
 
 --- 
