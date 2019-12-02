@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <br/>
 <font size="3">
 Hi, I'm an undergrduate student at <span style="color:#512698"><b>Williams College</b></span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font><br/>
