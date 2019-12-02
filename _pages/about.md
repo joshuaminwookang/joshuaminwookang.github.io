@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 14p">
+<p style="font-size: 12p">
 
 Hi, I'm an undergrduate student at Williams College <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>, where I am <br/> double-majoring in Computer Science and Physics. 
 
+<br/>
 For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: #512698;">
 r&#233;sum&#233;</a>. 
 </p>
 
 ## Research Interests
-<p style="font-size: 14p">
+<p style="font-size: 12p">
 
-Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
+Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
-* Low-power, energy-efficient architectures/systems
-* Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
-* Open-source and agile hardware development
-
-Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. 
+<ul>
+<li>Low-power, energy-efficient architectures/systems
+<li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
+<li>Open-source and agile hardware development
+</ul>
+Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
 </p>
