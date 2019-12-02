@@ -2,7 +2,7 @@
 title: "PHYS 142: Foundations of Modern Physics"
 collection: teaching
 type: "Physics Major Requirement"
-permalink: "https://physics.williams.edu"
+redirect: "https://physics.williams.edu"
 venue: "Department of Physics Williams College"
 date: 2018-02-01
 ---
