@@ -20,7 +20,7 @@ For a summary of my experiences, please check out my <font style="color:black">
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
 
 * Low-power, energy-efficient architectures/systems
-* Hardware accelerators <font size="1"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
+* Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
 * Open-source and agile hardware development
 
 Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. 
