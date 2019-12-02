@@ -26,8 +26,8 @@ Currently, I am interested in a wide range of research problems, spanning comput
 <li>Open-source and agile hardware development</li>
 </ul>
 Not listed above, I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
-
-Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
+<br/>
+Also, I consider myself a visual thinker, and I find graphics and computer vision to be interesting application domains. 
 </font>
 <br/>
 
