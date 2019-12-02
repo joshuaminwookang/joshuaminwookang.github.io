@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 28p; color: #512698"> About me </p> <br/>
+<p style="font-size: 28px; color: #512698"> About me </p> <br/>
 
-<p style="font-size: 12p">
+<p style="font-size: 12px">
 
 Hi, I'm an undergrduate student at Williams College <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>, where I am <br/> double-majoring in Computer Science and Physics. 
 
@@ -18,9 +18,8 @@ For a summary of my experiences, please check out my <a href="/files/kang_resume
 r&#233;sum&#233;</a>. 
 </p>
 
-<p style="font-size: 28p; color: #512698"> Research Interests </p> <br/>
-<p style="font-size: 12p">
-
+<p style="font-size: 28px; font-weight:bold; color: #512698"> Research Interests </p> 
+<p style="font-size: 12px">
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
 <ul>
