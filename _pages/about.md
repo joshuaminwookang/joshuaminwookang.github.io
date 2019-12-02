@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+fontsize 
+---
 
 
-Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span><p style="color:#512698; font-size: 5px"> (<i>Go Ephs!</i>)</p>, where I am <br/> double-majoring in Computer Science and Physics. 
+Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span><p style="color: #512698; font-size: 5px"> (<i>Go Ephs!</i>)</p>, where I am <br/> double-majoring in Computer Science and Physics. 
 
 For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: grey;">
 r&#233;sum&#233;</a>. 
 
---- 
 ## Research Interests
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
 
