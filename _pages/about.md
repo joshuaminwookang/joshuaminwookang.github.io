@@ -12,24 +12,23 @@ redirect_from:
 Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, <br/>
 where I am double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my  <span style="color:black">
-[R&#233sum&#233](/fils/kang_resume.pdf)
- <span style="color:#512698">. 
+For a summary of my experiences, please check out my  <font style="color:black">
+["R&#233sum&#233"](/fils/kang_resume.pdf)</font>. 
 
-<hr size="3", color="black"/>
+<hr size="3", color="black">
 
 ### Research Interests
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
 
 * Low-power, energy-efficient architectures/systems
-* Hardware accelerators <font size="3"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
+* Hardware accelerators <font size="1"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
 * Open-source and agile hardware development
 
 Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. 
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
 
-<hr size="3", color="black"/>
+<hr size="3", color="black">
 
 
 <font size="3">
