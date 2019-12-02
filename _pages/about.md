@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 28px; color: #512698"> About me </p> <br/>
-
-<p style="font-size: 12px">
+<font size="5">
 
 Hi, I'm an undergrduate student at Williams College <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>, where I am <br/> double-majoring in Computer Science and Physics. 
 
 <br/>
 For a summary of my experiences, please check out my <a href="/files/kang_resume.pdf" style="color: #512698;">
 r&#233;sum&#233;</a>. 
-</p>
+</font>
 
-<p style="font-size: 28px; font-weight:bold; color: #512698"> Research Interests </p> 
-<p style="font-size: 12px">
+## Research Interests
+<font size="5">
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
 <ul>
@@ -30,7 +28,8 @@ Currently, I am interested in a wide range of research problems, spanning comput
 Not listed above, I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
-</p><br/>
+</font>
+<br/>
 
 ---
 
