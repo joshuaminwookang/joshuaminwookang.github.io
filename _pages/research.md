@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
- <span style="color:green", size="20">[Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators](/files/Kang_ThesisProposal_Final.pdf)</span>
+ <font style="color:green", size="20">[Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators](/files/Kang_ThesisProposal_Final.pdf)</font>
 
 <p style="text-align: center;">
 June 2019 ~  | @ Williams College CS Bailey group (PI: Prof. Duane Bailey)
@@ -14,7 +14,7 @@ June 2019 ~  | @ Williams College CS Bailey group (PI: Prof. Duane Bailey)
 </p>
 
 
-<span style="color:purple", size="20">[Adhesion-Induced Phase Separation in Soft Gels](/files/AIPS_Draft.pdf)</span>
+<font style="color:purple", size="20">[Adhesion-Induced Phase Separation in Soft Gels](/files/AIPS_Draft.pdf)</font>
 <p style="text-align: center;">
 January 2018 ~  | @ Williams College Materials Physics Lab (PI: Prof. Katharine E. Jensen)
 
