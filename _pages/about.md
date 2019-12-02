@@ -11,8 +11,8 @@ redirect_from:
 
 Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, where I am <br/> double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my  <font style="color:black">
-["R&#233sum&#233"](/files/kang_resume.pdf)</font>. 
+For a summary of my experiences, please check out my <font style="color:black">
+[R&#233sum&#233](/files/kang_resume.pdf)</font>. 
 
 <hr size="3", color="black">
 
