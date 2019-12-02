@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-fontsize 
----
-
 
 Hi, I'm an undergrduate student at <span style="color:#512698;">Williams College</span> 
 <p style="color: #512698; font-size: 5px"> (<i>Go Ephs!</i>)</p>, where I am <br/> double-majoring in Computer Science and Physics. 
