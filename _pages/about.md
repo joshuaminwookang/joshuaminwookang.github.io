@@ -30,7 +30,7 @@ Currently, I am interested in a wide range of research problems, spanning comput
 Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
 
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
-</p>
+</p><br/>
 
 ---
 
