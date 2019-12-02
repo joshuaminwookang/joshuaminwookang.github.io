@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-###Hi, 
-I am an undergrduate student at <span style="color:purple">Williams College (Go Ephs!) </span>, where I am double-majoring in Computer Science and Physics. I have research experiences in computer architecture and soft matter physics--please check out the [research](/research/) page for more details. 
+Hi, I'm an undergrduate student at <span style="color:purple">Williams College (Go Ephs!) </span>, where I am double-majoring in Computer Science and Physics. 
+
+I have research experiences in computer architecture and soft matter physics--please check out the [research](/research/) page for more details. 
 
 <hr>
 
-#### Research Interests
+### Research Interests
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:
 
 * Low-power, energy-efficient architectures/systems
@@ -26,7 +27,12 @@ Not listed above, but I have recently become fascinated with warehouse-scale com
 Also, I consider myself a visual thinker, and topics on graphics and computer vision has always intrigued me. 
 
 
-
+<hr>
+Trivia:
+* I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.
+* From '15 to '17, I served in the South Korean Army, stationed at the [Joint Security Area](https://en.wikipedia.org/wiki/Joint_Security_Area). 
+* I enjoy watching and playing football (~~soccer~~), though I've never been a varsity athelete. 
+* <span style="color:red"> '#' YNWA </span>
 
 
 
