@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<a href="/files/Kang_ThesisProposal_Final.pdf" style="color: #512698;font-size:24px;font-weight:bold" >
+<a href="/files/Kang_ThesisProposal_Final.pdf" style="font-size:24px;font-weight:bold" >
 Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
 
 **June 2019 ~ Present**<br/>
@@ -14,7 +14,7 @@ Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators<
 <img src='/images/Kang_Summer2019_poster.png' width='800' >
 </p>
 
-<a href="/files/AIPS_Draft.pdf" style="color: #512698; font-size:24px; font-weight:bold">
+<a href="/files/AIPS_Draft.pdf" style="font-size:24px; font-weight:bold">
 Adhesion-Induced Phase Separation in Soft Gels</a>
 
 **January 2018 ~ Present**<br/>
