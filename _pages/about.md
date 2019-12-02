@@ -33,7 +33,7 @@ Also, I consider myself a visual thinker, and I find graphics and computer visio
 </font>
 <br/>
 
----
+***
 
 <font size="2">
 
