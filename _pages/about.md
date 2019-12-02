@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Hi, I'm an undergrduate student at <span style="color:purple">Williams College (Go Ephs!) </span>, where I am double-majoring in Computer Science and Physics. 
+Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, where I am double-majoring in Computer Science and Physics. 
 
-I have research experiences in computer architecture and soft matter physics--please check out the [research](/research/) page for more details. 
+For a summary of my experiences, please check out my [research](/resume/). 
 
 <hr>
 
@@ -32,7 +32,7 @@ Trivia:
 * I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.
 * From '15 to '17, I served in the South Korean Army, stationed at the [Joint Security Area](https://en.wikipedia.org/wiki/Joint_Security_Area). 
 * I enjoy watching and playing football (~~soccer~~), though I've never been a varsity athelete. 
-* <span style="color:red"> '#' YNWA </span>
+* <span style="color:#D00027"> #YNWA </span>
 
 
 
