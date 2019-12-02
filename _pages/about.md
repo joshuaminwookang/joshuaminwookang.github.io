@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, where I am double-majoring in Computer Science and Physics. 
+Hi, I'm an undergrduate student at <span style="color:#512698">Williams College (*Go Ephs!*)</span>, <br/>
+where I am double-majoring in Computer Science and Physics. 
 
-For a summary of my experiences, please check out my [research](/resume/). 
+For a summary of my experiences, please check out my  <span style="color:black">[R&#233sum&#233](/resume/) <span style="color:#512698">. 
 
 <hr size="5">
 
@@ -28,11 +29,12 @@ Also, I consider myself a visual thinker, and topics on graphics and computer vi
 
 <hr size="5">
 
-####Trivia
+<font size="10">
+**Trivia**
 * I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.
 * From '15 to '17, I served in the South Korean Army, stationed at the [Joint Security Area](https://en.wikipedia.org/wiki/Joint_Security_Area). 
 * I enjoy watching and playing football (~~soccer~~), though I've never been a varsity athelete. 
 * <span style="color:#D00027"> #YNWA </span>
-
+</font>
 
 
