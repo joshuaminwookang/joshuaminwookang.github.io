@@ -19,5 +19,6 @@ Adhesion-Induced Phase Separation in Soft Gels</a>
 
 January 2018 ~  | @ Williams College Materials Physics Lab (PI: Prof. Katharine E. Jensen)
 
+<p style="text-align: center">
 <img src='/images/Kang_Poster_SoftDays@Amherst.jpg' width='600'>
 </p>
