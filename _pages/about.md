@@ -24,9 +24,9 @@ r&#233;sum&#233;</a>.
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
 <ul>
-<li>Low-power, energy-efficient architectures/systems
-<li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font>
-<li>Open-source and agile hardware development
+<li>Low-power, energy-efficient architectures/systems</li>
+<li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font></li>
+<li>Open-source and agile hardware development</li>
 </ul>
 Not listed above, but I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
 
