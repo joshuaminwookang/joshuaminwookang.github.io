@@ -52,5 +52,5 @@ Real-time Events Advertising Platform for Williams Mobile</a>
 </b>
 
 <p align="center">
-<img src='/images/wassapp_icon.png' width='300'> </p>
+<img src='/images/wassapp_icon.png' width='100'> </p>
 </font>

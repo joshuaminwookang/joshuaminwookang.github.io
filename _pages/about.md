@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-Hi, I am a senior at <a href="https://www.williams.edu" style=" color:#512698; font-weight:bold">Williams College</a>
+Hi, I am a senior at <a href="https://www.williams.edu" style=" color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
  studying Computer Science and Physics. 
 
 <br/><br/>
