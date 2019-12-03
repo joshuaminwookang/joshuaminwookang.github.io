@@ -8,7 +8,7 @@ redirect_from:
 ---
 <font size="3">
 Hi, I am a senior at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
- studying Computer Science and Physics. <br/>
+ studying <b>Computer Science</b> and <b>Physics</b>. <br/>
 For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf" style="text-decoration:none">
 r&#233;sum&#233;</a>. <br/>
 </font> 
@@ -16,7 +16,7 @@ r&#233;sum&#233;</a>. <br/>
 <hr/>
 # Research Interests
 <font size="3">
-I am currently interested in a wide range of research problems, spanning computer architecture, <br/> VLSI design and various other areas that deal with the hardware-software interface. <br/>
+I am currently interested in a wide range of research problems, spanning <b> computer architecture, <br/> VLSI design</b> and various other areas that deal with the <b>hardware-software interface</b>. <br/>
 
 <br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics such as:<br/>
 
@@ -26,7 +26,7 @@ I am currently interested in a wide range of research problems, spanning compute
 <li>Open-source and agile hardware development</li>
 <li>Software-support (e.g. DSLs) for efficient hardware design</li>
 </ul>
-Not listed above, I have also recently become fascinated with warehouse-scale computers and problems on designing hardware to support efficient distributed computing.
+Recently, I have also become fascinated with warehouse-scale computers and architectures for efficient distributed computing.
 </font>
 ***
 
