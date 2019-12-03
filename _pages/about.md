@@ -22,7 +22,7 @@ I am currently interested in a wide range of research problems, mostly related t
 
 <ul>
 <li>Energy-efficient architectures and low-power systems</li>
-<li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font></li>
+<li>Hardware accelerators</li>
 <li>Open-source and agile hardware development</li>
 <li>Software-support (e.g. DSLs) for efficient hardware design</li>
 </ul>
