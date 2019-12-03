@@ -9,8 +9,8 @@ author_profile: true
 Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
 
 <font size="3">
-<b>@ Williams College Bailey Group</b></font><br/>
-June 2019 ~ Present<br/>
+<b>@ Williams College Bailey Group</b><br/>
+June 2019 ~ Present<br/></font>
 
 <p align="center">
 <img src='/images/Kang_Summer2019_poster.png' width='600' >
