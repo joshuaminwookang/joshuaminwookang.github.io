@@ -21,7 +21,7 @@ Computational Complexity of Turnstile Puzzles</a>
 Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerators</a>
 
 <font size="3">
-<b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)
+<b> Final Project for CSCI 338 Parallel Procssing (Fall 2019, Prof. Kelly Shaw)
 [<a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="text-decoration:none">code</a>]
 </b>
 </font>
@@ -32,7 +32,7 @@ Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator
 KCICK: the KCICK Consulting Interview CracKer</a>
 
 <font size="3">
-<b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
+<b> Final Project for CSCI 334 Programming Languages (Fall 2018, Prof. Dan Barowy)
 [<a href="https://github.com/joshuaminwookang/kcick.git"  style="text-decoration:none">code</a>]
 [<a href="/files/334_final.pdf"  style="text-decoration:none">ppt</a>]
 </b>
