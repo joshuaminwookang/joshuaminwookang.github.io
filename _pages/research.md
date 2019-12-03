@@ -17,7 +17,7 @@ Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators<
 </font>
 
 <p align="center">
-<img src='/images/Kang_Summer2019_poster.png' width='600' >
+<img src='/images/Kang_Summer2019_poster.png' width='700' >
 <br/> </p>
 
 <hr/>
