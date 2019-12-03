@@ -18,7 +18,7 @@ r&#233;sum&#233;</a>. <br/>
 <font size="3">
 I am currently interested in a wide range of research problems, spanning <b> computer architecture, <br/> VLSI design</b> and various other areas that deal with the <b>hardware-software interface</b>. <br/>
 
-<br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics such as:<br/>
+<br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics:<br/>
 
 <ul>
 <li>Energy-efficient architectures and low-power systems</li>
