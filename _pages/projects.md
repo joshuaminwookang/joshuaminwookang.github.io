@@ -47,5 +47,8 @@ Real-time Events Advertising Platform for Williams Mobile</a>
 <font size="3">
 <b> (Currently dormant) Project to add features for real-time social events update and advertising to the 
 <a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698"> Williams Mobile app </a>.
- </b>
+</b>
+
+<p align="center">
+<img src='/images/wassapp_icon.png' width='500'> </p>
 </font>
