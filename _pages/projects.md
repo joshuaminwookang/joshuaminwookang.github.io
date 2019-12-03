@@ -34,7 +34,7 @@ KCICK: the KCICK Consulting Interview CracKer</a>
 <font size="3">
 <b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
 [<a href="https://github.com/joshuaminwookang/kcick.git"  style="text-decoration:none">code</a>]
-[<a href="/files/334_final.pdf"  style="text-decoration:none">PPT</a>]
+[<a href="/files/334_final.pdf"  style="text-decoration:none">ppt</a>]
 </b>
 </font>
 
@@ -49,5 +49,5 @@ Real-time Events Advertising Platform for Williams Mobile</a>
 </b>
 
 <p align="center">
-<img src='/images/wassapp_icon.png' width='100'> </p>
+<img src='/images/wassapp_icon.png' width='200'> </p>
 </font>
