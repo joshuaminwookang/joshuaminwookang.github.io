@@ -26,7 +26,6 @@ I am currently interested in a wide range of research problems, mostly related t
 <li>Open-source and agile hardware development</li>
 <li>Software-support (e.g. DSLs) for efficient hardware design</li>
 </ul>
-Recently, I have also become fascinated with warehouse-scale computers and architectures for efficient distributed computing.
 </font>
 ***
 
