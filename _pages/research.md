@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br/>
 <a href="/files/Kang_ThesisProposal_Final.pdf" style="font-size:20px;font-weight:bold" >
-Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
+Designing an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
 
 <font size="3">
 <b>
