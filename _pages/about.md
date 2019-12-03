@@ -26,11 +26,8 @@ Thanks to my undergraduate experiences, I have been to a number of interesting t
 <li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font></li>
 <li>Open-source and agile hardware development</li>
 </ul>
-Not listed above, I have recently become fascinated with warehouse-scale computers and related problems on designing  hardware to support efficient distributed computing. <br/>
-<br/>
-Also, I consider myself a visual thinker, and I find graphics and computer vision to be interesting application domains. 
+Not listed above, I have also recently become fascinated with warehouse-scale computers and problems on designing hardware to support efficient distributed computing.
 </font>
-
 ***
 
 <font size="2">
