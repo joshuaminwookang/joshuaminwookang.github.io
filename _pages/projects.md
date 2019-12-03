@@ -5,11 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 <br/>
-<a href="/files/Kang_Kwirks_Final.pdf" style="font-size:24px;font-weight:bold" >
+<a href="/files/Kang_Kwirks_Final.pdf" style="font-size:20px;font-weight:bold" >
 Computational Complexities of Turnstile Puzzles</a>
 
-**Project for CSCI 361 Theory of Computation (Fall 2019)**<br/>
+Project for CSCI 361 Theory of Computation (Fall 2019)<br/>
 <br/>
 <p align="center">
-<img src='/images/kwirk_image.jpeg' width='800'><br/>
+<img src='/images/kwirk_image.jpeg' width='500'><br/>
 <font size="1"> Image source: https://nepascene.com/2017/07/turn-channel-3-kwirk-quirky-addictive-early-game-boy-puzzler/</font> </p>
