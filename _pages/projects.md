@@ -22,7 +22,7 @@ Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator
 
 <font size="3">
 <b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)
-[<a href="https://github.com/joshuaminwookang/https://github.com/joshuaminwookang/BloomOrBust.git">
+[<a href="https://github.com/joshuaminwookang/BloomOrBust.git">
 code</a>]
 </b>
 </font>
@@ -34,7 +34,7 @@ KCICK: the KCICK Consulting Interview CracKer</a>
 
 <font size="3">
 <b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
-[<a href="https://github.com/joshuaminwookang/https://github.com/joshuaminwookang/kcick.git">
+[<a href="https://github.com/joshuaminwookang/kcick.git">
 code</a>]
 </b>
 </font>
