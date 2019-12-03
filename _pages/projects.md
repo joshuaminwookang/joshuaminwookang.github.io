@@ -22,8 +22,7 @@ Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator
 
 <font size="3">
 <b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)
-[<a href="https://github.com/joshuaminwookang/BloomOrBust.git"  style="text-decoration:none">
-code</a>]
+[<a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="text-decoration:none">code</a>]
 </b>
 </font>
 
@@ -34,10 +33,8 @@ KCICK: the KCICK Consulting Interview CracKer</a>
 
 <font size="3">
 <b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
-[<a href="https://github.com/joshuaminwookang/kcick.git"  style="text-decoration:none">
-code</a>]
-[<a href="/files/334_final.pdf"  style="text-decoration:none">
-PPT</a>]
+[<a href="https://github.com/joshuaminwookang/kcick.git"  style="text-decoration:none">code</a>]
+[<a href="/files/334_final.pdf"  style="text-decoration:none">PPT</a>]
 </b>
 </font>
 
@@ -48,7 +45,7 @@ Real-time Events Advertising Platform for Williams Mobile</a>
 
 <font size="3">
 <b> (Currently dormant) Project to add features for real-time social events update and advertising to the 
-<a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698;text-decoration:none"> Williams Mobile app </a>.
+<a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698;text-decoration:none">Williams Mobile app </a>.
 </b>
 
 <p align="center">
