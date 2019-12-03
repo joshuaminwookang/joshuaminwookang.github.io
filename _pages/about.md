@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-I am an undergrduate student at <span style="color:#512698"><b>Williams College</b></span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>
-where I am a double-major in <br/> Computer Science and Physics. 
+Hi, I am an senior at <span style="color:#512698"><b>Williams College</b></span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>
+where I am a double-major in Computer Science and Physics. 
 
 <br/><br/>
-For a summary of my experiences, please refer to my <a href="/files/kang_resume.pdf">
+For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf">
 r&#233;sum&#233;</a>. 
 </font> 
 
@@ -19,7 +19,7 @@ r&#233;sum&#233;</a>.
 <hr/>
 # Research Interests
 <font size="3">
-Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. <br/>
+I am currently interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. <br/>
 Thanks to my undergraduate experiences, I have been to a number of interesting topics such as:<br/>
 
 <ul>
