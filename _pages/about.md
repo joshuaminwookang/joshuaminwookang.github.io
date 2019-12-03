@@ -36,7 +36,7 @@ Recently, I have also become fascinated with warehouse-scale computers and archi
 <ul>
 <li> I was born and raised in South Korea--for the most part, I lived in the outskirts of Seoul.</li>
 <li>From '15 to '17, I served in the South Korean Army, stationed at the  <a href="https://en.wikipedia.org/wiki/Joint_Security_Area" style="text-decoration:none"> Joint Security Area </a>. </li>
-<li>I enjoy watching and playing football <s>(soccer)</s>, though I've never been a varsity athelete. </li>
+<li>I enjoy watching and playing football <s>(soccer)</s>. </li>
 <li> <a href="https://www.google.com/search?q=liverpool+fc&oq=liverpool+fc&aqs=chrome..69i57.1763j0j9&sourceid=chrome&ie=UTF-8" style="color:#D00027;text-decoration:none"> #YNWA </a></li>
 </ul>
 </font>
