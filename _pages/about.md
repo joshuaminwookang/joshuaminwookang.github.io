@@ -21,9 +21,10 @@ I am currently interested in a wide range of research problems, spanning compute
 <br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics such as:<br/>
 
 <ul>
-<li>Low-power, energy-efficient architectures/systems</li>
+<li>Energy-efficient architectures and low-power systems</li>
 <li>Hardware accelerators <font size="2"> (not necessarily for neural net computations, but ML seems to be the *real deal* these days)</font></li>
 <li>Open-source and agile hardware development</li>
+<li>Software-support (e.g. DSLs) for efficient hardware design</li>
 </ul>
 Not listed above, I have also recently become fascinated with warehouse-scale computers and problems on designing hardware to support efficient distributed computing.
 </font>
