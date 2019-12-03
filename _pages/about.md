@@ -16,7 +16,7 @@ r&#233;sum&#233;</a>. <br/>
 <hr/>
 # Research Interests
 <font size="3">
-I am currently interested in a wide range of research problems, mostly in <b> computer systems and architecture</b>. <br/>
+I am currently interested in a wide range of research problems, mostly related to <br/><b> computer systems and architecture</b>. <br/>
 
 <br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics:<br/>
 
