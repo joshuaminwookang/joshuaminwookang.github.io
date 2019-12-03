@@ -9,7 +9,7 @@ author_profile: true
 Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
 
 <font size="3">
-<b>@ Williams College Bailey Group</b><br/>
+<b>@Williams College Bailey Group (PI: Prof. Duane Bailey)</b><br/>
 June 2019 ~ Present<br/></font>
 
 <p align="center">
@@ -20,9 +20,10 @@ June 2019 ~ Present<br/></font>
 
 <a href="/files/AIPS_Draft.pdf" style="font-size:20px; font-weight:bold">
 Adhesion-Induced Phase Separation in Soft Gels</a>
+<font size="3">
+<b>@Williams College Materials Physics Lab (PI: Prof. Katharine E. Jensen)</b><br/>
+January 2018 ~ Present<br/></font>
 
-@ Williams College Materials Physics Lab (PI: Prof. Katharine E. Jensen)<br/>
-January 2018 ~ Present<br/>
 <p align="center">
 <img src='/images/Kang_Poster_SoftDays@Amherst.jpg' width='500'>
 </p>
