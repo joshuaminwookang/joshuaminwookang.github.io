@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 <br/>
-<a href="/files/Kang_Kwirks_Final.pdf" style="font-size:20px;font-weight:bold" >
+<a href="/files/Kang_Kwirk_Final.pdf" style="font-size:20px;font-weight:bold" >
 Computational Complexity of Turnstile Puzzles</a>
 
 <font size="3">
