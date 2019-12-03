@@ -17,29 +17,35 @@ Computational Complexities of Turnstile Puzzles</a>
 
 <hr/>
 
-<a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="font-size:20px;font-weight:bold" >
+<a href="/files/338_final.pdf" style="font-size:20px;font-weight:bold" >
 Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerators</a>
 
 <font size="3">
-<b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)</b>
+<b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)
+[<a href="https://github.com/joshuaminwookang/https://github.com/joshuaminwookang/BloomOrBust.git">
+code</a>]
+</b>
 </font>
 
 <hr/>
 
-<a href="https://github.com/joshuaminwookang/kcick.git" style="font-size:20px;font-weight:bold" >
+<a href="/files/334_final.pdf" style="font-size:20px;font-weight:bold" >
 KCICK: the KCICK Consulting Interview CracKer</a>
 
 <font size="3">
-<b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)</b>
+<b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
+[<a href="https://github.com/joshuaminwookang/https://github.com/joshuaminwookang/kcick.git">
+code</a>]
+</b>
 </font>
 
 <hr/>
 
 <a href="https://github.com/joshuaminwookang/williams_wassapp.git" style="font-size:20px;font-weight:bold" >
-KCICK: the KCICK Consulting Interview CracKer</a>
+Real-time Events Advertising Platform for Williams Mobile</a>
 
 <font size="3">
-<b> Project to add real-time social events update and broadcasting to the 
-<a href="https://play.google.com/store/apps/details?id=com.williamsmobile"> Williams Mobile app </a>.
+<b> (Currently dormant) Project to add features for real-time social events update and advertising to the 
+<a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698"> Williams Mobile app </a>.
  </b>
 </font>
