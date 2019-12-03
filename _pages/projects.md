@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br/>
 <a href="/files/Kang_Kwirks_Final.pdf" style="font-size:20px;font-weight:bold" >
-Computational Complexities of Turnstile Puzzles</a>
+Computational Complexity of Turnstile Puzzles</a>
 
 <font size="3">
 <b> Final Project for CSCI 361 Theory of Computation (Fall 2019, Prof. Aaron Williams)</b></font>
@@ -22,20 +22,22 @@ Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator
 
 <font size="3">
 <b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)
-[<a href="https://github.com/joshuaminwookang/BloomOrBust.git">
+[<a href="https://github.com/joshuaminwookang/BloomOrBust.git"  style="text-decoration:none">
 code</a>]
 </b>
 </font>
 
 <hr/>
 
-<a href="/files/334_final.pdf" style="font-size:20px;font-weight:bold" >
+<a href="/files/kcick-lang.pdf" style="font-size:20px;font-weight:bold" >
 KCICK: the KCICK Consulting Interview CracKer</a>
 
 <font size="3">
 <b> Final Project for CSCI 334 Programming Languages (Fall 2018. Prof. Dan Barowy)
-[<a href="https://github.com/joshuaminwookang/kcick.git">
+[<a href="https://github.com/joshuaminwookang/kcick.git"  style="text-decoration:none">
 code</a>]
+[<a href="/files/334_final.pdf"  style="text-decoration:none">
+PPT</a>]
 </b>
 </font>
 
@@ -46,9 +48,9 @@ Real-time Events Advertising Platform for Williams Mobile</a>
 
 <font size="3">
 <b> (Currently dormant) Project to add features for real-time social events update and advertising to the 
-<a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698"> Williams Mobile app </a>.
+<a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698;text-decoration:none"> Williams Mobile app </a>.
 </b>
 
 <p align="center">
-<img src='/images/wassapp_icon.png' width='500'> </p>
+<img src='/images/wassapp_icon.png' width='300'> </p>
 </font>

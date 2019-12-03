@@ -11,7 +11,7 @@ Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators<
 <font size="3">
 <b>
 @Williams College Bailey Group (PI: Prof. Duane Bailey) 
-[<a href="https://github.com/joshuaminwookang/TheRoCCyMountains">
+[<a href="https://github.com/joshuaminwookang/TheRoCCyMountains", style="text-decoration:none">
 code</a>]
 </b>
 <br/>
@@ -29,7 +29,7 @@ Adhesion-Induced Phase Separation in Soft Gels</a>
 <font size="3">
 <b>
 @Williams College Materials Physics Lab (PI: Prof. Katharine E. Jensen)
-[<a href="https://github.com/joshuaminwookang/WilliamsMaterials">
+[<a href="https://github.com/joshuaminwookang/WilliamsMaterials"  style="text-decoration:none">
 code</a>]
 </b>
 <br/>
