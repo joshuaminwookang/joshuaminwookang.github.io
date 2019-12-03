@@ -44,7 +44,7 @@ KCICK: the KCICK Consulting Interview CracKer</a>
 Real-time Events Advertising Platform for Williams Mobile</a>
 
 <font size="3">
-<b> (Currently dormant) Project to add features for real-time social events update and advertising to the 
+<b> (Currently dormant) Project to add social events features to the 
 <a href="https://play.google.com/store/apps/details?id=com.williamsmobile" style="color:#512698;text-decoration:none">Williams Mobile app </a>.
 </b>
 
