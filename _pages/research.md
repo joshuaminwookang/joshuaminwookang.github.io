@@ -8,7 +8,8 @@ author_profile: true
 <a href="/files/Kang_ThesisProposal_Final.pdf" style="font-size:20px;font-weight:bold" >
 Desgining an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
 
-@ Williams College CS Bailey group (PI: Prof. Duane Bailey)<br/>
+<font size="3">
+<b>@ Williams College Bailey Group</b></font><br/>
 June 2019 ~ Present<br/>
 
 <p align="center">
