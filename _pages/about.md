@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-Hi, I am an senior at <span style="color:#512698"><b>Williams College</b></span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>
-where I am a double-major in Computer Science and Physics. 
+Hi, I am a senior at <span style="color:#512698"><b>Williams College</b></span> <font size="2" color="#512698"> (<i>Go Ephs!</i>)</font>
+studying Computer Science and Physics. 
 
 <br/><br/>
 For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf">
-r&#233;sum&#233;</a>. 
+r&#233;sum&#233;</a>. <br/>
 </font> 
 
-<br/>
 <hr/>
 # Research Interests
 <font size="3">

@@ -18,7 +18,7 @@ Computational Complexities of Turnstile Puzzles</a>
 <hr/>
 
 <a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="font-size:20px;font-weight:bold" >
-Acclerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerators</a>
+Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerators</a>
 
 <font size="3">
 <b> Final Project for CSCI 338 Parallel Procssing (Fall 2019. Prof. Kelly Shaw)</b>
