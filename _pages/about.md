@@ -15,7 +15,7 @@ For a summary of my experiences, please refer to my <a href="/files/kang_resume.
 r&#233;sum&#233;</a>. 
 </font> 
 
-<br/><br/>
+<br/>
 # Research Interests
 <font size="3">
 Currently, I am interested in a wide range of research problems, spanning computer architecture, VLSI design and various other areas that deal with the hardware-software interface. <br/>
