@@ -17,7 +17,7 @@ Computational Complexity of Turnstile Puzzles</a>
 
 <hr/>
 
-<a href="/files/338_final.pdf" style="font-size:20px;font-weight:bold" >
+<a href="/files/bloom_final.pdf" style="font-size:20px;font-weight:bold" >
 Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator</a>
 
 <font size="3">
