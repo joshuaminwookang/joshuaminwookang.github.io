@@ -4,6 +4,17 @@ title: "Class and Independent Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+<font size="3">
+<b> Final Project for CSCI 338 Parallel Processing (Fall 2019, Prof. Kelly Shaw)
+[<a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="text-decoration:none">code</a>]
+</b>
+</font>
+
+<p align="center">
+<img src='/images/Bloom_diagram.png' width='500'><br/>
+</p>
+
 <br/>
 <a href="/files/Kang_Kwirk_Final.pdf" style="font-size:20px;font-weight:bold" >
 Computational Complexity of Turnstile Puzzles</a>
@@ -14,17 +25,6 @@ Computational Complexity of Turnstile Puzzles</a>
 <p align="center">
 <img src='/images/kwirk_image.jpeg' width='500'><br/>
 <font size="1"> Image source: https://nepascene.com/2017/07/turn-channel-3-kwirk-quirky-addictive-early-game-boy-puzzler/</font> </p>
-
-<hr/>
-
-<a href="/files/338_final.pdf" style="font-size:20px;font-weight:bold" >
-Accelerating Bloom filter Based Text Queries Using CUDA and Hardware Accelerator</a>
-
-<font size="3">
-<b> Final Project for CSCI 338 Parallel Processing (Fall 2019, Prof. Kelly Shaw)
-[<a href="https://github.com/joshuaminwookang/BloomOrBust.git" style="text-decoration:none">code</a>]
-</b>
-</font>
 
 <hr/>
 
