@@ -40,6 +40,10 @@ KCICK: the KCICK Consulting Interview CracKer</a>
 [<a href="/files/334_final.pdf"  style="text-decoration:none">ppt</a>]
 </b>
 </font>
+<br/>
+<p align="center">
+<img src='/images/kcick_front.png' width='500'><br/>
+</p>
 
 <hr/>
 
