@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-Hi, I am a senior at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
+I am a senior at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
  studying <b>Computer Science</b> and <b>Physics</b>. <br/>
 For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf" style="text-decoration:none">
 r&#233;sum&#233;</a>. <br/>
