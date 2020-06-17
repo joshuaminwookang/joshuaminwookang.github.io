@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 <br/>
-<a href="/files/kang_thesis.pdf" style="font-size:20px;font-weight:bold" >
-Designing an Energy-Efficient RISC-V SoC with an Adaptive Array of Accelerators</a>
+<a href="https://unbound.williams.edu/theses/islandora/object/studenttheses%3A1677?search=kang" style="font-size:20px;font-weight:bold" >
+SOAR: a Self-Optimizing Adpative SoC on FPGAs</a>
 
 <font size="3">
 <b>
-@Williams College Bailey Group (PI: Prof. Duane Bailey) 
-[<a href="https://github.com/joshuaminwookang/TheRoCCyMountains" style="text-decoration:none">code</a>]
+@Williams CS Architecture Group (PI: Prof. Duane Bailey) 
+[<a href="https://github.com/joshuaminwookang/soarsoc" style="text-decoration:none">code</a>]
 </b>
 <br/>
 </font>

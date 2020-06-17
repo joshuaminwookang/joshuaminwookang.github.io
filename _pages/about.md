@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-I am a senior at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
- studying <b>Computer Science</b> and <b>Physics</b>. <br/>
+I am incoming graduate student in  
+<a href="https://eecs.berkeley.edu" style="color:#003262; font-weight:bold;text-decoration:none"> Electrical Engineering and Computer Science (EECS) </a>
+at <a href="https://berkeley.edu" style="color:#fdb515; font-weight:bold;text-decoration:none"> University of California, Berkeley</a>. <br/>
+I completed my undergradate studies at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
+ majoring in <b>Computer Science</b> and <b>Physics</b>. <br/>
 For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf" style="text-decoration:none">
 r&#233;sum&#233;</a>. <br/>
 </font> 
@@ -21,10 +24,9 @@ I am currently interested in a wide range of research problems, mostly related t
 <br/>Thanks to my undergraduate experiences, I have been introduced to a number of interesting topics:<br/>
 
 <ul>
-<li>Energy-efficient architectures and low-power systems</li>
-<li>Hardware accelerators</li>
-<li>Open-source and agile hardware development</li>
-<li>Software-support (e.g. DSLs) for efficient hardware design</li>
+<li>Accelerator-based System-on-a-Chip (SoC) designs</li>
+<li>High-level synthesis (HLS) and software support for efficient accelerator design</li>
+<li>Open-source and Agile hardware development</li>
 </ul>
 </font>
 ***
