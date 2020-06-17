@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 <font size="3">
-I am incoming graduate student in  
-<a href="https://eecs.berkeley.edu" style="color:#003262; font-weight:bold;text-decoration:none"> Electrical Engineering and Computer Science (EECS) </a>
-at <a href="https://berkeley.edu" style="color:#fdb515; font-weight:bold;text-decoration:none"> University of California, Berkeley</a>. <br/>
-I completed my undergradate studies at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
+I am an incoming graduate student in  
+<a href="https://eecs.berkeley.edu" style="color:#003262; font-weight:bold;text-decoration:none"> Electrical Engineering and Computer Science (EECS) </a><br/>
+at the <a href="https://berkeley.edu" style="color:#fdb515; font-weight:bold;text-decoration:none"> University of California, Berkeley</a>. Before that, I completed my undergradate studies at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
  majoring in <b>Computer Science</b> and <b>Physics</b>. <br/>
 For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf" style="text-decoration:none">
 r&#233;sum&#233;</a>. <br/>
