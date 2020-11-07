@@ -13,7 +13,7 @@ at the <a href="https://berkeley.edu" style="color:#fdb515; font-weight:bold;tex
 
 <br/>Before that, I was an undergraduate at <a href="https://www.williams.edu" style="color:#512698; font-weight:bold;text-decoration:none">Williams College</a>
  majoring in <b>Computer Science</b> and <b>Physics</b>. <br/>
-For a summary of experiences, please refer to my <a href="/files/kang_resume.pdf" style="text-decoration:none">
+For a summary of experiences, please refer to my <a href="/files/Resume.pdf" style="text-decoration:none">
 r&#233;sum&#233;</a>. <br/>
 </font> 
 
