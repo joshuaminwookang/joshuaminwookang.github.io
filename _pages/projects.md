@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 <br/>
+<a href="/files/cs289a_cherrypick.pdf" style="font-size:20px;font-weight:bold" >
+Learning-Based Hardware Acceleration Speedup Estimation</a>
+<font size="3">
+<b> Project for UC Berkeley CS 289A Intro to ML (Fall 2020, Prof. Anant Sahai)
+[<a href="https://github.com/joshuaminwookang/cherrypick.git" style="text-decoration:none">code</a>]
+</b>
+</font>
+<br/>
+
+<br/>
 <a href="/files/Bloom_final.pdf" style="font-size:20px;font-weight:bold" >
 Accelerating Bloom Filter Operations Using GPUs and Hardware Accelerators</a>
 <font size="3">
